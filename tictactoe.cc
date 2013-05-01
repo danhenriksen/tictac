@@ -3,6 +3,9 @@
 #include <cstdlib>
 
 
+///
+/// \brief The Board class
+///
 class Board
 {
     public:
